@@ -6,12 +6,8 @@ ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操�
 ## How to use
 
 
+![crtl-z](https://user-images.githubusercontent.com/75353922/134824671-521d5554-30d7-42bc-bfd4-663a26c2a6a9.gif)
 
-https://user-images.githubusercontent.com/75353922/134824446-35310f38-fa50-41e2-8f77-c53453dda8c8.mp4
-
-
-
-https://user-images.githubusercontent.com/75353922/134824448-acc11adc-adcc-4832-8ae9-04d89b3e40c5.mp4
 
 
 
