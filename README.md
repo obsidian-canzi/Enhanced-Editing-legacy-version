@@ -4,7 +4,7 @@ This plugin was designed for note-takers to have a more productive Markdown and 
 
 ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操作。如果您需要在 Obsidian 中高频率地编辑和写作，ZH 增强编辑插件可以大幅提高您的 MD、HTML 语法编辑效率。
 ## How it Works
-Gif tutorials and video demo are coming soon…
+More Gif tutorials and video demo are coming soon…
 ## Features
  
 -  Alt+Z
