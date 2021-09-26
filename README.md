@@ -5,6 +5,7 @@ This plugin was designed for note-takers to have a more productive Markdown and 
 ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操作。如果您需要在 Obsidian 中高频率地编辑和写作，ZH 增强编辑插件可以大幅提高您的 MD、HTML 语法编辑效率。
 ## How to use
 
+![crtl-z1](https://user-images.githubusercontent.com/75353922/134824770-fbe84438-cca6-48a5-b378-ea96b4625b50.gif)
 
 ![crtl-z](https://user-images.githubusercontent.com/75353922/134824671-521d5554-30d7-42bc-bfd4-663a26c2a6a9.gif)
 
