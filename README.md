@@ -6,10 +6,12 @@ ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操�
 ## How to use
 
 
-https://user-images.githubusercontent.com/75353922/134824299-622ebceb-0b68-4375-a361-e7ef792ac94c.mp4
+
+https://user-images.githubusercontent.com/75353922/134824446-35310f38-fa50-41e2-8f77-c53453dda8c8.mp4
 
 
-https://user-images.githubusercontent.com/75353922/134824300-5f83f51d-5f07-4225-86ce-2cb4d66290b7.mp4
+
+https://user-images.githubusercontent.com/75353922/134824448-acc11adc-adcc-4832-8ae9-04d89b3e40c5.mp4
 
 
 
