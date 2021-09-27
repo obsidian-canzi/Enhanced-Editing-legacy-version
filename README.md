@@ -16,21 +16,21 @@ More Gif demos and video tutorials are coming in the future…
 ## Features
  
 -  Alt+Z
-	 - [Convert MD/Wiki Link syntax]　Add or remove `[[link]]` symbols at both ends of the selected text. Also support the conversion of multi-line or multi-sentence titles and texts separated by Newline character \n or Comma to MD/Wiki Link, and vice versa.
+	 - [Add or remove MD/Wiki Link]　Add or remove `[[link]]` symbols at both ends of the selected text. Also support the conversion of multi-line or multi-sentence titles and texts separated by Newline character \n or Comma to MD/Wiki Link.
 	 - 【转换内链语法】　在选文两端添加或去除` [[链接]] `符号。支持转换由换行符\n 或顿号、分隔的多行或多句标题文本为内链语法。
 - Ctrl+ 1-6:
 	- [Convert heading level]　Specify or cancel the current line of text as an N-level heading
 	- 【转换标题语法】　指定或取消当前行文本为 N 级标题
  - Alt+G
-	- [Convert highlighting grammar]　Add or remove` ==highlight== `symbol at both ends of the selected text
+	- [Add or remove highlighting]　Add or remove` ==highlight== `symbol at both ends of the selected text
 	 - 【转换高亮语法】　在选文两端添加或去除` ==高亮== `符号
- Alt+ `
-	 - 【Convert inline code　　Alt+ _`_ 】　Add or remove the symbol of _`_ inline code _`_ at both ends of the selected text
-	 - 【转换行内代码】　在选文两端添加或去除 _`_ 行内代码_`_ 符号
+ - Alt+ ` `
+	 - 【Add or remove inline code】　Add or remove the symbol of _`_ inline code _`_ at both ends of the selected text
+	 - 【转换行内代码】　在选文两端添加或去除  _`_  行内代码 _`_ 符号
  - Ctrl+Shift+M
-	- [Convert code block] 　Add or remove the symbol of `` `code block` `` at both ends of the selected text
+	- [Add or remove code block] 　Add or remove the symbol of `` `code block` `` at both ends of the selected text
 	-  【转换代码块】　在选文两端添加或去除 `` `代码块` `` 符号	
-- Select and Auto-convert
+- Auto-pairing
 	- [Convert superscript] 　Add or remove the` <sup>superscript</sup> `syntax at both ends of the selected text
 	- 【转换上标】　在选文两端添加或去除` <sup>上标</sup> `语法
 	- 【Conversion subscript】　Add or remove the` <sub>subscript</sub>` syntax at both ends of the selected text
@@ -44,15 +44,15 @@ More Gif demos and video tutorials are coming in the future…
 	- 《Selected text》 　Add or remove the《》 symbol at both ends of the selected text
 	- 《选文》在选文两端添加或去除《》符号
 - Ctrl+Shift+Alt+Z
-	- [English to Chinese punctuation]　 Convert English punctuation in notes to Chinese punctuation, such as,.?!" etc
+	- [English to Chinese punctuation]　 Convert English punctuation to Chinese punctuation, such as,.?!" etc
 	- 【英转中文标点】　将笔记中的英文标点转换为中文标点，如,.?!"
 - Ctrl+Shift+Alt+Y
-	- [Transfer English punctuation] 　 Convert Chinese punctuation in notes to English punctuation, such as. ? ! " etc
+	- [Transfer English punctuation] 　 Convert Chinese punctuation to English punctuation, such as. ? ! " etc
 	- 【中转英文标点】　将笔记中的中文标点转换为英文标点，如，。？！“等
 - Shift+Alt+F
 	- [ Path conversion]　 convert` c:\\windows `and` [](file:///c:\/windows) `path syntax to each other 
 	- 【转换路径语法】　将 `c:\\windows` 与` [](file:///c:\/windows) `路径语法相互转换
-- Select and Auto-convert
+- Select and Convert
 	- [Simplified to Traditional] 　 Convert simplified Chinese characters to traditional Chinese characters
 	- 【简体转为繁体】　将笔记中的简体汉字转换为繁体汉字
 	- [Traditional to Simplified] 　 Convert the traditional Chinese characters to simplified Chinese characters
@@ -66,7 +66,7 @@ More Gif demos and video tutorials are coming in the future…
 - Ctrl+Alt+D
 	- [Fix unexpected line breaks]　Fix unexpected line break (delete line breaks at the end that are not punctuation such as sentence, question, exclamation mark)
 	- 【修复意外断行】　修复笔记中的意外断行（删除结尾不是句、问、叹号等标点的换行符）
-- Select and Auto-convert
+- Select and Search
 	- 【Search the current text】　Search the selected content in the current document on the search panel.
 	- 【搜索当前文本】　通过搜索面板在当前文档中搜索划选内容。
 - Ctrl+Shift+T
@@ -78,7 +78,7 @@ More Gif demos and video tutorials are coming in the future…
 - Ctrl+Alt+C
 	- 【Get text without syntax】　Get the selected text after removing markdown syntax characters
 	- 【获取无语法文本】　获取去除 markdown 语法字符后的选文
-- Select and Auto-convert
+- Select and Convert
 	- 【Get relative path】　Get the relative path of the current note in the library directory.
 	- 【获取相对路径】　获取当前笔记在库目录内的相对路径
 - Ctrl+Shift+L
@@ -91,7 +91,7 @@ More Gif demos and video tutorials are coming in the future…
 	- 【末尾追加空格】　在每个文本行的末尾追加两个空格，以在预览模式时具有换行效果
 	- [Remove trailing spaces]　Remove the space characters at the end of each text line in batches
 	- 【去除末尾空格】　批量去除每个文本行末尾的空格字符
-- Select and Auto-convert
+- Select and Convert
 	- 【Add Chinese-English Space】　Add spaces in batches between Chinese characters and letters in the text, such as china China.
 	- 【添加中英间隔】　在正文的汉字与字母之间批量添加空格，如 china 中国
 	- [Remove all spaces] 　Remove all full and half-width spaces in the text
