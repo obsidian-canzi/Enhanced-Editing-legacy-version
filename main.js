@@ -3,10 +3,15 @@
 var obsidian = require('obsidian');
 
 /*! *****************************************************************************
+Disclaimer:
+The developer Silkworm（蚕子）codes for passion and love. It means this plugin may not be perfect and will not be always 100% safe.
+Therefore, please backup your vault before using this plugin. Thanks
+The corresponding developer Mouth on Cloud (嘴上云) is maintaining this plugin here on Github and responsible for the Chinese to English translation.
+If you find something has been lost in translation, feel free to send a feed back here:https://github.com/shaggyfeng/Obsidian-ZH-Enhanced-editing/issues
 使用声明
 本插件基于多款社区插件开发而成，蚕子水平有限，代码或许存在缺陷，不能保证任何用户或任何操作均为正常，
 请您在使用本插件之前，先备份好Obsidian笔记库，谢谢配合。
-开发：蚕子 QQ：312815311 更新时间：2021-9-22
+开发：蚕子 QQ：312815311 更新时间：2021-9-27
 ***************************************************************************** */
 
 var extendStatics = function(d, b) {
