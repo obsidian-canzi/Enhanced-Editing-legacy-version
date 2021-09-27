@@ -1,0 +1,10 @@
+{
+  "id": "ZH-Enhanced-Editing",
+  "name": "ZH Enhanced Editing",
+  "version": "0.2.9",
+  "minAppVersion": "0.0.1",
+  "description": "A plugin that provides a multitude of hotkeys for many syntax combos to speeds up your writing and editing.",
+  "author": "Silkworm and Mouth",
+  "authorUrl": "https://jq.qq.com/?_wv=1027&k=hgkmKRoE",
+  "isDesktopOnly": false
+}
