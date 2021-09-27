@@ -24,9 +24,9 @@ More Gif demos and video tutorials are coming in the future…
  - Alt+G
 	- [Add or remove highlighting]　Add or remove` ==highlight== `symbol at both ends of the selected text
 	 - 【转换高亮语法】　在选文两端添加或去除` ==高亮== `符号
- - Alt+ ` `
-	 - 【Add or remove inline code】　Add or remove the symbol of _`_ inline code _`_ at both ends of the selected text
-	 - 【转换行内代码】　在选文两端添加或去除  _`_  行内代码 _`_ 符号
+ - Alt+ ` 
+	 - 【Add or remove inline code】　Add or remove the symbol of ` inline code ` at both ends of the selected text
+	 - 【转换行内代码】　在选文两端添加或去除  `  行内代码 ` 符号
  - Ctrl+Shift+M
 	- [Add or remove code block] 　Add or remove the symbol of `` `code block` `` at both ends of the selected text
 	-  【转换代码块】　在选文两端添加或去除 `` `代码块` `` 符号	
