@@ -99,7 +99,7 @@ More Gif tutorials and video demo are coming soon…
 
 
 ## Installation
-1. Download the [latest release](https://github.com/shaggyfeng/Obsidian-ZH-Enhanced-editing/releases))
+1. Download the [latest release](https://github.com/shaggyfeng/Obsidian-ZH-Enhanced-editing/releases)
 1. Extract the folder from the zip to your vault's plugins folder: `<vault>/.obsidian/plugins/`  
 Note: On some machines, the `.obsidian` folder may be hidden. On MacOS you should be able to press `Command+Shift+Dot` to show the folder in Finder.
 1. Reload Obsidian
@@ -154,6 +154,6 @@ Added the following Hotkeys:
 - [ ] Be on the community plugin page within Obsidian the APP
 
 ## About
-Silkworm（蚕子） is the actual developer of this plugin. However it is not convenient for him to look after the plugin outside the Obsidian Chinese community. Therefore, I (mouth on cloud) am the “corresponding developer” who is maintaining this plugin here on Github. 
+Silkworm ([蚕子](https://jq.qq.com/?_wv=1027&k=hgkmKRoE)) is the actual developer of this plugin. However it is not convenient for him to look after the plugin outside the Obsidian Chinese community. Therefore, I (mouth on cloud) am the “corresponding developer” who is maintaining this plugin here on Github. 
 ## Support
 If Silkworm（蚕子）wants to have a cup of coffee once a while, I might be able to set up a support page for him (me). 
