@@ -147,7 +147,7 @@ Added the following Hotkeys:
 【去除所有空格】　去除正文中所有的全、半角空格
 ```
 ## Checklist
-- [ ] Translate plugin’s settings
+- [x] Translate plugin’s settings
 - [x] Translate readme. Md
 - [ ] Add options to enable and disable hotkeys
 - [ ] Add options to change hotkey’s mapping
