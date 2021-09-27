@@ -110,7 +110,7 @@ Note: On some machines, the `.obsidian` folder may be hidden. On MacOS you shoul
 Updated readme.md in English 
 ```
 ``` 
-2021-09-07
+2021-09-22
 Added the following Hotkeys:
 【转换内链语法　　Alt+Z】　在选文两端添加或去除 [[链接]] 符号
 　支持转换由换行符\n 或顿号、分隔的多行或多句标题文本为内链语法。
