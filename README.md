@@ -25,11 +25,11 @@ More Gif demos and video tutorials are coming in the future…
 	- [Add or remove highlighting]　Add or remove` ==highlight== `symbol at both ends of the selected text
 	 - 【转换高亮语法】　在选文两端添加或去除` ==高亮== `符号
  - Alt+ ` 
-	 - 【Add or remove inline code】　Add or remove the symbol of `` ` inline code ` `` at both ends of the selected text
-	 - 【转换行内代码】　在选文两端添加或去除  `  行内代码 ` 符号
+	 - 【Add or remove inline code】　Add or remove the symbol of `` `inline code` `` at both ends of the selected text
+	 - 【转换行内代码】　在选文两端添加或去除  `` `行内代码` `` 符号
  - Ctrl+Shift+M
 	- [Add or remove code block] 　Add or remove the symbol of `` ```code block``` `` at both ends of the selected text
-	-  【转换代码块】　在选文两端添加或去除 `` 代码块 `` 符号	
+	-  【转换代码块】　在选文两端添加或去除 `` ```代码块``` `` 符号	
 - Auto-pairing
 	- [Convert superscript] 　Add or remove the` <sup>superscript</sup> `syntax at both ends of the selected text
 	- 【转换上标】　在选文两端添加或去除` <sup>上标</sup> `语法
