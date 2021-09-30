@@ -58,7 +58,7 @@ More Gif demos and video tutorials are coming in the future…
 	- [Traditional to Simplified] 　 Convert the traditional Chinese characters to simplified Chinese characters
 	- 【繁体转为简体】　将笔记中的繁体汉字转换为简体汉字 
 - Ctrl+Alt+V
-	- [Paste MD form]　 directly paste the copied Office form into MarkDown syntax form
+	- [Paste MD table]　 directly paste the copied Office Excel table into MarkDown table
 	- 【粘贴 MD 表格】　将复制的 Office 表格直接粘贴为 MarkDown 语法表格
 - Ctrl+Shift+J
 	-  [Fix wrong syntax]　Fix the wrong MD syntax in the notes, such as 1. List,` [] () `link, `[[]]() `backlinks, etc. 
