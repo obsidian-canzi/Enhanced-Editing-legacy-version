@@ -5,31 +5,25 @@ This plugin was designed for note-takers to have a more productive Markdown and 
 ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操作。如果您需要在 Obsidian 中高频率地编辑和写作，ZH 增强编辑插件可以大幅提高您的 MD、HTML 语法编辑效率。增强编辑模式下的多项功能，如转换链接语法、转换文本（标题语法、高亮语法、着重语法、上下标语法、注释内容、代码块等）样式、粘贴excel表格、获取多种信息（笔记相对路径、标注或无语法文本等）、修复错误语法、添加或去除空行、追加或去除空格、去除断行、替换标点、转换中英标点、转换文件路径等。
 ## Demos and Tutorials
 
-
+MD syntax formatting & text formatting
 https://user-images.githubusercontent.com/75353922/154607370-ddbb6769-274a-435a-8ff4-d6c0cf653a00.mp4
 
-
+Indentation for code block
 ![代码块中自动缩进](https://user-images.githubusercontent.com/75353922/154606695-dac97419-e5fa-4241-8c53-26cae665df67.gif)
 
-
+Enhanced paste
 https://user-images.githubusercontent.com/75353922/154606994-9ea137d5-b98e-4672-819a-4f87ee7e9613.mp4
 
-
-
-https://user-images.githubusercontent.com/75353922/154607096-ece97905-19bf-4342-b7e5-e1a697468526.mp4
-
-
-
+Study cards
 https://user-images.githubusercontent.com/75353922/154607209-dd443b24-3e6a-471c-889b-3e5bf650f747.mp4
 
-
-
+Study cards with css
 https://user-images.githubusercontent.com/75353922/154607301-e49f7a7b-5f27-45f5-a1d8-589e07554d68.mp4
 
 
-
+Add and remove `[[]]` with hotkeys
 ![crtl-z1](https://user-images.githubusercontent.com/75353922/134824770-fbe84438-cca6-48a5-b378-ea96b4625b50.gif)
-
+Add and remove multiple  `[[]]`
 ![crtl-z](https://user-images.githubusercontent.com/75353922/134824671-521d5554-30d7-42bc-bfd4-663a26c2a6a9.gif)
 
 
@@ -213,12 +207,13 @@ Added the following Hotkeys:
 ```
 ## Checklist
 - [x] Translate plugin’s settings
-- [x] Translate readme. Md
+- [x] keep updating new features
+- [x] Translate Readme from chinese to English
+- [x] Add options to change hotkeys mapping
 - [ ] Add options to enable and disable hotkeys
-- [ ] Add options to change hotkey’s mapping
 - [ ] Be on the community plugin page within Obsidian the APP
 
 ## About
-Silkworm ([蚕子](https://jq.qq.com/?_wv=1027&k=hgkmKRoE)) is the actual developer of this plugin. However it is not convenient for him to look after the plugin outside the Obsidian's Chinese community. Therefore, I (mouth on cloud) am the “corresponding developer” who is maintaining this plugin here on Github. 
+Silkworm ([蚕子](https://jq.qq.com/?_wv=1027&k=hgkmKRoE)) is the actual developer of this plugin. However, it is not convenient for him to look after the plugin outside the Obsidian's [Chinese community](https://mubu.com/doc/1BMHfhwEQ2G). Therefore, I (Shaggy Feng, also known as, Mouth on Cloud) am the “corresponding developer” who is maintaining this plugin here on Github. 
 ## Support
 If Silkworm（蚕子）wants to have a cup of coffee once a while, I might be able to set up a support page for him (me). 
