@@ -5,6 +5,29 @@ This plugin was designed for note-takers to have a more productive Markdown and 
 ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操作。如果您需要在 Obsidian 中高频率地编辑和写作，ZH 增强编辑插件可以大幅提高您的 MD、HTML 语法编辑效率。增强编辑模式下的多项功能，如转换链接语法、转换文本（标题语法、高亮语法、着重语法、上下标语法、注释内容、代码块等）样式、粘贴excel表格、获取多种信息（笔记相对路径、标注或无语法文本等）、修复错误语法、添加或去除空行、追加或去除空格、去除断行、替换标点、转换中英标点、转换文件路径等。
 ## Demos and Tutorials
 
+
+https://user-images.githubusercontent.com/75353922/154607370-ddbb6769-274a-435a-8ff4-d6c0cf653a00.mp4
+
+
+![代码块中自动缩进](https://user-images.githubusercontent.com/75353922/154606695-dac97419-e5fa-4241-8c53-26cae665df67.gif)
+
+
+https://user-images.githubusercontent.com/75353922/154606994-9ea137d5-b98e-4672-819a-4f87ee7e9613.mp4
+
+
+
+https://user-images.githubusercontent.com/75353922/154607096-ece97905-19bf-4342-b7e5-e1a697468526.mp4
+
+
+
+https://user-images.githubusercontent.com/75353922/154607209-dd443b24-3e6a-471c-889b-3e5bf650f747.mp4
+
+
+
+https://user-images.githubusercontent.com/75353922/154607301-e49f7a7b-5f27-45f5-a1d8-589e07554d68.mp4
+
+
+
 ![crtl-z1](https://user-images.githubusercontent.com/75353922/134824770-fbe84438-cca6-48a5-b378-ea96b4625b50.gif)
 
 ![crtl-z](https://user-images.githubusercontent.com/75353922/134824671-521d5554-30d7-42bc-bfd4-663a26c2a6a9.gif)
@@ -13,6 +36,48 @@ ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操�
 
 
 More Gif demos and video tutorials are coming in the future…
+## Updates
+#### Version 0.4.1 (updated on 2022-2-14)
+        Add the function "Cursor Control by Keybroad: Alt+ I J K L U O" to control the cursor position in the editing area by using the main keyboard area.
+        Enhance the function of "MD syntax formatting brush": When no text is selected, press Alt+C +G +S +U +N to turn on or off this function.
+
+#### Version 0.4.0 (updated on 2022-2-13)
+        Continue to streamline and optimize the js file code, please test it thoroughly, if you have any problems, please give us your feedback!
+        Enhance "smart line feed" function
+            Support pressing enter to add a line break in the body
+            Support pressing enter in a list line to keep a normal line break
+            Indentation effect after pressing enter in ``code block``.
+
+        Enhance the function of "convert ungrammatical text", support removing the corresponding syntax characters after mouse click on the syntax part of the text.
+
+#### Version 0.3.9 (updated on 2022-2-12)
+        Streamline and optimize js file code
+        Enhance the function of "Delete current paragraph Ctrl+D": if it is in [[]], it will delete the link content first, and when it meets the ordered list item, it will reduce the order number normally.
+
+#### Version 0.3.8 (updated on 2022-1-23)
+        Improve "Smart Symbol Alt+;" function, convert Dataview (dv), Query (qy), Mermaid (mm), js, ja, py, css and other words to ```block`` syntax.
+        Improve "fix accidental line break" function, remove extra spaces at the end of lines
+        Fix "insert empty line above, insert empty line below" function.
+
+#### Version 0.3.7 (updated on 2022-1-18)
+        Support selecting the text of the paragraph where the cursor is located
+        Support selecting the text of the whole sentence where the cursor is located
+        Support converting the selected text to Anki digging effect
+        Improve the function of embedding the current URL page, support the automatic processing of Tencent, B station and oil pipe video URLs
+
+#### Version 0.3.6 (updated on 2022-1-13)
+        No longer specify shortcut keys for low-frequency operation functions
+        One-click designation as the file name of the current note is available after crossing out the text.
+            Note: Automatic global modification is not available for now. Only recommended when creating new documents.
+
+        One-click embedding of the current URL page into the note after selecting the URL.
+
+#### Version 0.3.5 (updated on 2022-1-2)
+        Smart Symbols: automatically convert, match, or skip bracket symbols, shortcut Alt+;
+            Enter [(or [(then press the shortcut key to convert to 〖)
+            Press the shortcut key after 〖Enter Text| to match 〗
+            Press the shortcut key at the cursor of "Enter Text|" to skip the symbols
+	    
 ## Features
  
 -  Alt+Z
@@ -104,7 +169,7 @@ More Gif demos and video tutorials are coming in the future…
 Note: On some machines, the `.obsidian` folder may be hidden. On MacOS you should be able to press `Command+Shift+Dot` to show the folder in Finder.
 1. Reload Obsidian
 1. If prompted about Safe Mode, you can disable safe mode and enable the plugin.
-## Changelog
+## Old Changelog
 ```
 2021-09-26
 Updated readme.md in English 
