@@ -224,6 +224,9 @@ Added the following Hotkeys:
 Silkworm ([蚕子](https://jq.qq.com/?_wv=1027&k=hgkmKRoE)) is the actual developer of this plugin. However, it is not convenient for him to look after the plugin outside the Obsidian's [Chinese community](https://mubu.com/doc/1BMHfhwEQ2G). Therefore, I (Shaggy Feng, also known as, Mouth on Cloud) am the “corresponding developer” who is maintaining this plugin here on Github. 
 ## Support
 If Silkworm（蚕子）wants to have a cup of coffee once a while, I might be able to set up a support page for him (me). 
-[buy me a coffee](https://www.buymeacoffee.com/jVX2kezGxH/support-zh-enhanced-editing-plugin)
-[patreon](https://patreon.com/user?u=69756148)
-Thank you for your ❤️️ and support
+
+- You can support this plugin by
+	- [buy me a coffee](https://www.buymeacoffee.com/jVX2kezGxH/support-zh-enhanced-editing-plugin)
+	- [patreon](https://patreon.com/user?u=69756148)
+
+Thank you for your ❤️️ and support!
