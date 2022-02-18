@@ -228,5 +228,7 @@ If Silkworm（蚕子）wants to have a cup of coffee once a while, I might be ab
 - You can support this plugin by
 	- [buy me a coffee](https://www.buymeacoffee.com/jVX2kezGxH/support-zh-enhanced-editing-plugin)
 	- [patreon](https://patreon.com/user?u=69756148)
+	- ![微信支付WeChat](https://user-images.githubusercontent.com/75353922/154621909-41ab2146-b71c-4a16-a818-0a7c646336b8.JPG)
+
 
 Thank you for your ❤️️ and support!
