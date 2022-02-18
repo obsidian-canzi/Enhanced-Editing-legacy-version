@@ -1,6 +1,6 @@
 
 ## Ease of Use
-This plugin was designed for note-takers to have a more productive Markdown and HTML editing workflow in Obsidian. The ZH-Enhanced-Editing plugin provides a multitude of hotkeys for many syntax combos to speed up your writing and editing. When you use the ZH-Enhanced-Editing plugin, it will take your editing productivity to the next level(hopefully)! 
+This plugin was designed for note-takers to have a more productive Markdown and HTML editing workflow in Obsidian. The ZH-Enhanced-Editing plugin provides a multitude of auto-formatting and hotkeys for many syntax combos to speed up your writing and editing. When you use the ZH-Enhanced-Editing plugin, it will take your editing productivity to the next level(hopefully)! 
 
 ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操作。如果您需要在 Obsidian 中高频率地编辑和写作，ZH 增强编辑插件可以大幅提高您的 MD、HTML 语法编辑效率。增强编辑模式下的多项功能，如转换链接语法、转换文本（标题语法、高亮语法、着重语法、上下标语法、注释内容、代码块等）样式、粘贴excel表格、获取多种信息（笔记相对路径、标注或无语法文本等）、修复错误语法、添加或去除空行、追加或去除空格、去除断行、替换标点、转换中英标点、转换文件路径等。
 ## Demos and Tutorials
