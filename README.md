@@ -6,19 +6,19 @@ ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操�
 ## Demos and Tutorials
 
 MD syntax formatting & text formatting
-https://user-images.githubusercontent.com/75353922/154607370-ddbb6769-274a-435a-8ff4-d6c0cf653a00.mp4
+![](https://user-images.githubusercontent.com/75353922/154607370-ddbb6769-274a-435a-8ff4-d6c0cf653a00.mp4)
 
 Indentation for code block
 ![代码块中自动缩进](https://user-images.githubusercontent.com/75353922/154606695-dac97419-e5fa-4241-8c53-26cae665df67.gif)
 
 Enhanced paste
-https://user-images.githubusercontent.com/75353922/154606994-9ea137d5-b98e-4672-819a-4f87ee7e9613.mp4
+![](https://user-images.githubusercontent.com/75353922/154606994-9ea137d5-b98e-4672-819a-4f87ee7e9613.mp4)
 
 Study cards
-https://user-images.githubusercontent.com/75353922/154607209-dd443b24-3e6a-471c-889b-3e5bf650f747.mp4
+![](https://user-images.githubusercontent.com/75353922/154607209-dd443b24-3e6a-471c-889b-3e5bf650f747.mp4)
 
 Study cards with css
-https://user-images.githubusercontent.com/75353922/154607301-e49f7a7b-5f27-45f5-a1d8-589e07554d68.mp4
+![](https://user-images.githubusercontent.com/75353922/154607301-e49f7a7b-5f27-45f5-a1d8-589e07554d68.mp4)
 
 
 Add and remove `[[]]` with hotkeys
