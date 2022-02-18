@@ -7,7 +7,7 @@ ZH 增强编辑插件为大量编辑动作组合提供了简单、快捷的操�
 
 MD syntax formatting & text formatting
 
-(https://user-images.githubusercontent.com/75353922/154607370-ddbb6769-274a-435a-8ff4-d6c0cf653a00.mp4)
+https://user-images.githubusercontent.com/75353922/154607370-ddbb6769-274a-435a-8ff4-d6c0cf653a00.mp4
 
 Indentation for code block
 ![代码块中自动缩进](https://user-images.githubusercontent.com/75353922/154606695-dac97419-e5fa-4241-8c53-26cae665df67.gif)
