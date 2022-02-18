@@ -1,6 +1,6 @@
 # These are supported funding model platforms
 
-custom: ['https://www.buymeacoffee.com/jVX2kezGxH/support-zh-enhanced-editing-plugin','https://user-images.githubusercontent.com/75353922/154621909-41ab2146-b71c-4a16-a818-0a7c646336b8.JPG']
+
 github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 patreon: user?u=69756148
 open_collective: # Replace with a single Open Collective username
@@ -11,4 +11,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-
+custom: ['https://www.buymeacoffee.com/jVX2kezGxH/support-zh-enhanced-editing-plugin','https://user-images.githubusercontent.com/75353922/154621909-41ab2146-b71c-4a16-a818-0a7c646336b8.JPG']
