@@ -225,7 +225,7 @@ Added the following Hotkeys:
 - [ ] Be on the community plugin page within Obsidian the APP
 
 ## About
-Silkworm ([蚕子](https://jq.qq.com/?_wv=1027&k=hgkmKRoE)) is the actual developer of this plugin. However, it is not convenient for him to look after the plugin outside the Obsidian's [Chinese community](https://mubu.com/doc/1BMHfhwEQ2G) until April 2022. Therefore, I (Shaggy Feng, also known as, Mouth on Cloud) am the “corresponding developer” who is maintaining this plugin here on Github. Now (April 2022), here is the [updated repo](https://github.com/obsidian-canzi/Enhanced-editing) of this plugin created by the original developer! Version 4.4 will be the last update for this repo. Please follow the [updated repo](https://github.com/obsidian-canzi/Enhanced-editing) for the newest version.
+Silkworm ([蚕子](https://jq.qq.com/?_wv=1027&k=hgkmKRoE)) is the actual developer of this plugin. However, it is not convenient for him to look after the plugin outside the Obsidian's [Chinese community](https://mubu.com/doc/1BMHfhwEQ2G) until April 2022. Therefore, I [Shaggy Feng, also known as, Mouth on Cloud](https://github.com/shaggyfeng) am the “corresponding developer” who is maintaining this plugin here on Github. Now (April 2022), here is the [updated repo](https://github.com/obsidian-canzi/Enhanced-editing) of this plugin created by the original developer! Version 4.4 will be the last update for this repo. Please follow the [updated repo](https://github.com/obsidian-canzi/Enhanced-editing) for the newest version.
 ## Support
 If Silkworm（蚕子）wants to have a cup of coffee once a while, I might be able to set up a support page for him (me). 
 
